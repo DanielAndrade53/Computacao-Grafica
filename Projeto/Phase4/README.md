@@ -1,1 +1,1 @@
-Falta adicionar generator.cpp
+generator.cpp (Texturas erradas)
